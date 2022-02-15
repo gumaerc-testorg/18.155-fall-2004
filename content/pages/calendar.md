@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: cdf00bb7-25f3-974a-3791-f6c4b73b099f
 ---
@@ -73,7 +75,7 @@ Measurable Functions and the Integral - Including Lebesgue's Theorem of Dominate
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Riesz Representation, _L_p Spaces and Completeness, _L_2(_X_,μ) and Hilbert Space
+Riesz Representation, _L_{{< sup "p" >}} Spaces and Completeness, _L_{{< sup "2" >}}(_X_,μ) and Hilbert Space
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 1 due
@@ -105,7 +107,7 @@ Problem set 2 due
 {{< tdopen >}}
 
 
-Properties of _S_(Rn)
+Properties of _S_(R{{< sup "n" >}})
 
 Tempered Distributions
 
@@ -149,7 +151,7 @@ Problem set 3 due
 
 Convolution and Density
 
-Fourier Transform on _L_2(Rn)
+Fourier Transform on _L_{{< sup "2" >}}(R{{< sup "n" >}})
 
 
 {{< tdclose >}}
@@ -205,7 +207,7 @@ Problem set 4 due
 
 Compact Supports
 
-Convolution of Distributions supp(u\*v) ⊂ supp(u)+ supp(v) if one, at least, has Compact Support
+Convolution of Distributions supp(u{{< sub "\\*" >}}v) ⊂ supp(u)+ supp(v) if one, at least, has Compact Support
 
 Fundamental Solutions
 
@@ -239,7 +241,7 @@ Fundamental Solution of the Heat Operator, Hypoellipticity, Initial Value Proble
 
 Homogeneity
 
-The Distributions xz±, z ∈ C\\(-N)
+The Distributions x{{< sup "z" >}}{{< sub "±" >}}, z ∈ C\\(-N)
 
 
 {{< tdclose >}}
@@ -357,7 +359,7 @@ Spectral Decomposition
 
 Wave Equation on the Torus
 
-Wave Equation on Torus with Potential Δ+_V_ on Rn with _V_ ∈ _C_c(Rn)
+Wave Equation on Torus with Potential Δ+_V_ on R{{< sup "n" >}} with _V_ ∈ _C_{{< sub "c" >}}(R{{< sup "n" >}})
 
 
 {{< tdclose >}}

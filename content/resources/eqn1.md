@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-155-differential-analysis-fall-2004/c7b5319ed665e3620f34407d3e3b3221_eqn1.jpg
+file: /media/courses/18-155-differential-analysis-fall-2004/c7b5319ed665e3620f34407d3e3b3221_eqn1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Image
 title: eqn1.jpg
 uid: c7b5319e-d665-e362-0f34-407d3e3b3221

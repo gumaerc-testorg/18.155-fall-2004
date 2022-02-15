@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 6bf59ccf-7bc7-df3a-3ae2-e3be9fa62711
 ---
@@ -38,9 +40,9 @@ To pass the course each student was required to carry out one of the projects wh
 2.  Kuiper's theorem: The group of unitary operators on a (separable infinite dimensional) Hilbert space is contractible
 3.  Seeley's extension theorem
 4.  Gibb's phenomenon
-5.  Surjectivity of any non-trivial constant coefficient differential operator, _P_: _S'_ (Rn) → _S'_ (Rn)
-6.  Every elliptic differential operator with constant coefficients is surjective as a map on _C_∞(_U_), for any open set _U_ ⊂ Rn
-7.  Lidskii's theorem on trace class operators on _L_2(Rn)
+5.  Surjectivity of any non-trivial constant coefficient differential operator, _P_: _S'_ (R{{< sup "n" >}}) → _S'_ (R{{< sup "n" >}})
+6.  Every elliptic differential operator with constant coefficients is surjective as a map on _C_{{< sup "∞" >}}(_U_), for any open set _U_ ⊂ R{{< sup "n" >}}
+7.  Lidskii's theorem on trace class operators on _L_{{< sup "2" >}}(R{{< sup "n" >}})
 
 Grading
 -------
