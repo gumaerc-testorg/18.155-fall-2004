@@ -8,6 +8,7 @@ file: /courses/18-155-differential-analysis-fall-2004/367cb3a939cc40b0d2dea20d2f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource gives problems on the lecture topics covered in class, proofs on measure and integration, distributions and Fourier transform, differential operators with constant coefficients, fundamental solutions and hypoellipticity and operators, trace class, Hilbert-Schmid etc.
-

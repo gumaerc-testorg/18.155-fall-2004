@@ -6,6 +6,7 @@ file: /courses/18-155-differential-analysis-fall-2004/5d6e2ceef6725ad4331bea07d1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains three problems from the course notes (29, 40 and 41)on continuous linear operator and hints to solve these problems.
-

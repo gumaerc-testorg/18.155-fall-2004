@@ -6,6 +6,7 @@ file: /courses/18-155-differential-analysis-fall-2004/f993da71a91e7468d8508ecc51
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains five problems from the course notes (27, 28, 29, 30 and 31).
-

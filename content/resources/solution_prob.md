@@ -7,6 +7,7 @@ file: /courses/18-155-differential-analysis-fall-2004/316b53904ce106dc3339333469
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides solutions to some of the problems given for the lecture topics discussed, problems for which are given in a seperate file on the section page.
-

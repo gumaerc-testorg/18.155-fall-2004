@@ -7,6 +7,7 @@ file: /courses/18-155-differential-analysis-fall-2004/a46ab2c4353ab4984306a6755a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains lecture discourse on more exhaustive reference for distributions, the complete metric topology and and supporting lemmas, prpopositions and corollaries.
-

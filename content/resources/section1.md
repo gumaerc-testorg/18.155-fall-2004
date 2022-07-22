@@ -8,6 +8,7 @@ file: /courses/18-155-differential-analysis-fall-2004/e06a3352309b1de0ca1de2ee23
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes lecture discourse on metric space, what the basic theory of metric spaces deals with properties of subsets (open, closed, compact, connected), sequences (convergent, Cauchy) and maps (continuous) and the relationship between these notions and  related propositions, and lemmas.
-

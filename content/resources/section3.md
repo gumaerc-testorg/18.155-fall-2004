@@ -8,6 +8,7 @@ file: /courses/18-155-differential-analysis-fall-2004/447c5870100c43f0ded7978fc9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains lecture discourse on Measureability of Functions, equations for it, how similar this is to one of the characterizations of continuity for maps between metric spaces in terms of open sets and supporting theorems, prpopositions and lemmas.
-
