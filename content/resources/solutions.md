@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions to some of the problems from the course
   notes, in the problem set handed out to students.
 file: /courses/18-155-differential-analysis-fall-2004/59c53319bbec2e985619c6c23f73b409_solutions.pdf
+file_size: 153488
 file_type: application/pdf
 learning_resource_types:
 - Assignments
