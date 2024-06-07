@@ -6,6 +6,7 @@ description: This resource provides the introduction to the topics covered in th
   operators, trace class, Hilbert-Schmid and problems for the course and the solution
   for these problems.
 file: /courses/18-155-differential-analysis-fall-2004/d7569c76af5fd5132b03d34b4db590e0_lecture_notes.pdf
+file_size: 1802293
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
