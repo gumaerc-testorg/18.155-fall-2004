@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-155-differential-analysis-fall-2004/fa60b20e070ee676b70cdf8a373e6197_section9.pdf
+file_size: 122203
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

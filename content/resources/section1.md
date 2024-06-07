@@ -5,6 +5,7 @@ description: This resource includes lecture discourse on metric space, what the 
   connected), sequences (convergent, Cauchy) and maps (continuous) and the relationship
   between these notions and  related propositions, and lemmas.
 file: /courses/18-155-differential-analysis-fall-2004/e06a3352309b1de0ca1de2ee239afd31_section1.pdf
+file_size: 143052
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
