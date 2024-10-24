@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains five problems from the course notes (problems
   16, 17, 18, 21 and 24). It contains problems on - let mod be a norm on a vector
   space V, C has continuous partial derivatives.
-file: /courses/18-155-differential-analysis-fall-2004/030156a49f6bca89bae7be1a8e48f7af_problem_set3.pdf
+file: /ol-ocw-studio-app/courses/18-155-differential-analysis-fall-2004/030156a49f6bca89bae7be1a8e48f7af_problem_set3.pdf
 file_size: 496912
 file_type: application/pdf
 learning_resource_types:
