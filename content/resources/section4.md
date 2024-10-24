@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains lecture discourse on the mu-integral of a non-negative
   simple function and its de?nition and the equation for it and supporting definitions,
   theorems, prpopositions and proofs.
-file: /courses/18-155-differential-analysis-fall-2004/853e4fe291ccddca2d426a75d4e91abd_section4.pdf
+file: /ol-ocw-studio-app/courses/18-155-differential-analysis-fall-2004/853e4fe291ccddca2d426a75d4e91abd_section4.pdf
 file_size: 168953
 file_type: application/pdf
 learning_resource_types:
