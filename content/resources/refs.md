@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides list of references of the books useful for the
   better understanding of the course material.
-file: /courses/18-155-differential-analysis-fall-2004/9e9665871e7949df44cb1d398253eeac_refs.pdf
+file: /ol-ocw-studio-app/courses/18-155-differential-analysis-fall-2004/9e9665871e7949df44cb1d398253eeac_refs.pdf
 file_size: 31645
 file_type: application/pdf
 learning_resource_types:
